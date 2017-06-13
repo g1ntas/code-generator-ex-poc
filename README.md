@@ -1,3 +1,5 @@
+**NOTE:** I created this project for learning purposes. Unfortunatelly, I am not going to finish this project, instead I will rewrite it in PHP.
+
 # Accio
 **Accio** is a CLI tool, which allows to generate code templates parsed from the GitHub gists. 
 
