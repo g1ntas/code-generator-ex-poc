@@ -1,4 +1,4 @@
-**NOTE:** I created this project for learning purposes. Unfortunatelly, I am not going to finish this project, instead I will rewrite it in PHP.
+**NOTE:** I created this project for learning purposes. Unfortunatelly, I am not going to finish this project, though I am still working on the idea and currently implementing it in Python.
 
 # Accio
 **Accio** is a CLI tool, which allows to generate code templates parsed from the GitHub gists. 
