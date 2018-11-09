@@ -1,4 +1,6 @@
-**NOTE:** I created this project for learning purposes. Unfortunatelly, I am not going to finish this project, though I am still working on the idea and currently implementing it in Python.
+**NOTE:** I created this project for learning purposes. Unfortunatelly, I am not going to finish this project, though I am still working on the idea and currently implementing it in Python. 
+
+Also, I changed the concept of the idea quite a lot, a few  main changes are that instead of gists, git repositories will be used and templates will allow to use embeded python scripts. Templates examples can be found in github.com/g1ntas/accio-templates repository. If someone's interested in project I gladly would use some help.
 
 # Accio
 **Accio** is a CLI tool, which allows to generate code templates parsed from the GitHub gists. 
